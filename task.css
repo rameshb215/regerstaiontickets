@@ -1,1 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
 
+.bg-container {
+    background-image: url("https://www.businessleague.in/wp-content/uploads/2021/12/UP-Bihar-Maharashtra.jpg");
+    background-size: cover;
+    height: 105vh;
+    text-align: center;
+    width: 100%;
+
+}
+
+.h1 {
+    color: rgb(17, 13, 4);
+    font-size: 20px;
+    font-family: "Roboto";
+    text-align: center;
+    padding: 20px;
+}
+
+.heading1 {
+    color: black;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+}
+
+.btn {
+    background-color: chocolate;
+    color: white;
+    font-size: 10px;
+    font-family: "roboto";
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 6px 6px 6px rgb(18, 14, 8);
+}
+
+.irctc {
+    color: black;
+    font-weight: bold;
+}
+
+.fi {
+    color: black;
+}
+
+.card {
+    background-color: white;
+    width: 30vh;
+    margin-left: 30px;
+    box-shadow: 6px 6px 6px rgb(93, 6, 6);
+}
